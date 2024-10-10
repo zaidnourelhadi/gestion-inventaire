@@ -1,5 +1,11 @@
-First , run the development client:
+
 ```bash
+
+This is a Next.js project.
+Nextjs Inventory Management Dashboard using frameworks Nextjs/TypeScript/Tailwind CSS as front-end and Express.js/Prisma as back-end 
+
+Getting Started
+First , run the development client:
 cd client
 npm run dev
 
@@ -10,10 +16,6 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-This is a Next.js project.
-Nextjs Inventory Management Dashboard using frameworks Nextjs/TypeScript/Tailwind CSS as front-end and Express.js/Prisma as back-end 
-
-Getting Started
 
 
 
