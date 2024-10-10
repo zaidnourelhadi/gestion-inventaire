@@ -1,8 +1,9 @@
-cd server
+First , run the development client:
+```bash
+cd client
 npm run dev
 
-second , run the development client:
-```bash
+First, run the development server:
 cd server
 npm run dev
 
@@ -13,7 +14,7 @@ This is a Next.js project.
 Nextjs Inventory Management Dashboard using frameworks Nextjs/TypeScript/Tailwind CSS as front-end and Express.js/Prisma as back-end 
 
 Getting Started
-First, run the development server:
+
 
 
 
