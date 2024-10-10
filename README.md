@@ -2,7 +2,7 @@
 ```bash
 
 This is a Next.js project.
-Nextjs Inventory Management Dashboard using frameworks Nextjs/TypeScript/Tailwind CSS as front-end and Express.js/Prisma as back-end 
+Nextjs Inventory tracker Dashboard app using frameworks Nextjs/TypeScript/Tailwind CSS as front-end and Express.js/Prisma as back-end 
 
 Getting Started
 
