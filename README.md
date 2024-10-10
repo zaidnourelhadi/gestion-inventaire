@@ -1,6 +1,5 @@
-This is a Next.js project bootstrapped with create-next-app.
-
-Nextjs Inventory Management Dashboard using frameworks Nextjs/TypeScript/Tailwind CSS as front-end and Express.js/Prisma as back-end 
+   This is a Next.js project.
+   Nextjs Inventory Management Dashboard using frameworks Nextjs/TypeScript/Tailwind CSS as front-end and Express.js/Prisma as back-end 
 
 Getting Started
 First, run the development server:
